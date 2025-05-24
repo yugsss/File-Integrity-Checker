@@ -30,4 +30,4 @@ file-integrity-checker/
 ├── hasher.py            # SHA-256 hashing
 ├── utils.py             # JSON DB load/save
 ├── database.json        # Saved file hashes (auto-generated)
-└── README.md            # This documentation
+└── README.md            # This documentation here  
